@@ -21,24 +21,6 @@ NotesApp is a note-taking application that allows users to create, edit, and del
 - **initl**: To format dates and other localization needs.
 
 
-## Installation
-
-1. **Clone this Repository**
-    ```bash
-    git clone https://github.com/adeiskandarzulkarnaen/notesappmobile.git
-    cd notesappmobile
-    ```
-
-2. **Install Dependencies**
-    ```bash
-    flutter pub get
-    ```
-
-3. **Run the Application**
-    ```bash
-    flutter run
-    ```
-
 ## Contributions
 
 Contributions are highly welcomed! If you have ideas for improving this application or find any bugs, please create an issue or pull request in this repository.
